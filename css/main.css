@@ -20,3 +20,7 @@ body {
   color: #ffffff;
   padding-top: 45vh;
 }
+
+#llamado-accion {
+  background-color: rgba(116, 209, 76, 1);
+}
