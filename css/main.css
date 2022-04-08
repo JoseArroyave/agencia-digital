@@ -1,0 +1,8 @@
+/* Estilos personalizados respecto a bootstrap*/
+
+body{
+  font-size: 1.2rem;
+}
+.fondo-nav{
+  background:#15151d !important;
+}
