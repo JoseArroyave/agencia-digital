@@ -8,6 +8,10 @@ body {
   background: #15151d !important;
 }
 
+.imagenNavbar {
+  width: 140px;
+}
+
 #inicio {
   background: url("../img/adults-analysis-banking-1451447.jpg");
   background-repeat: no-repeat;
